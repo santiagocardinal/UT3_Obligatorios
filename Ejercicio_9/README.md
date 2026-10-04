@@ -31,3 +31,5 @@ Para ello, se deberá realizar una planilla o tabla que contenga 4 columnas:
 Graficar los resultados.
 
 **¿Se condicen estos resultados con los conceptos vistos en forma teórica?**
+
+Si, la verdad que si corresponde con lo que hemos visto en clase. Por lo tanto se puede concluir que el mejor factor de carga es aquel que este entre el 75% o menos para tener buenos promedios en las búsquedas exitosas, como en las que no lo son también. 
